@@ -7,11 +7,11 @@ Final Grade: 30/30 Cum Laude
 
 ### Project Description
 
-- [General informations about the project]().
-- [Specifications of WordChecker]().
+- [General informations about the project](https://github.com/giammu/Algorithms-and-Data-Structures-Project/blob/main/ProvaFinale2022-generale.pdf).
+- [Specifications of WordChecker](https://github.com/giammu/Algorithms-and-Data-Structures-Project/blob/main/ProvaFinale2022_tema.pdf).
 
 ### Useful Files
 
-- [Open Testcases]().
-- [Test Generator]().
+- [Open Testcases](https://github.com/giammu/Algorithms-and-Data-Structures-Project/tree/main/open_testcases).
+- [Test Generator](https://github.com/giammu/Algorithms-and-Data-Structures-Project/blob/main/test_gen.py).
 
